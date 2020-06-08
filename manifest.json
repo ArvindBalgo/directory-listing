@@ -16,7 +16,7 @@
     }
   ],
   "start_url": "/directory-listing/index.html",
-  "display": "standalone",
+  "display": "Fullscreen",
   "orientation": "portrait",
   "background_color": "#ababab",
   "theme_color": "#96f2d7"
