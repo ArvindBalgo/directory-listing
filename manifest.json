@@ -3,6 +3,12 @@
   "short_name": "MYP",
   "icons": [
     {
+      "src": "144x144.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg",
+      "purpose": "maskable any"
+    },
+    {
       "src": "manifest-icon-192.jpg",
       "sizes": "192x192",
       "type": "image/jpg",
