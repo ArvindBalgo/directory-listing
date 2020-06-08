@@ -18,6 +18,6 @@
   "start_url": "/directory-listing/index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f0f2f5",
+  "background_color": "#ababab",
   "theme_color": "#96f2d7"
 }
